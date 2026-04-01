@@ -13,6 +13,7 @@ INPUT:
 Test application with required information
 
 ### References
+
 - [AI Prompt Repository For Testers](https://testingtitbits.com/aitestingprompts/)
 - [Heuristic Test Strategy Model](https://www.satisfice.com/download/heuristic-test-strategy-model)
 - [Blueprint for test strategy](https://www.testmuai.com/blog/blueprint-for-test-strategy/)
